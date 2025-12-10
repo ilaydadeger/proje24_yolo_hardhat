@@ -15,8 +15,6 @@ runs/
 
 # Large datasets (repo şişmesin diye)
 dataset/
-dataset_small/train/
-dataset_small/valid/
 dataset_small/test/
 
 # Model checkpoints 
