@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# YOLO auto-generated runs
+runs/
+
+# Large datasets (repo şişmesin diye)
+dataset/
+dataset_small/train/
+dataset_small/valid/
+dataset_small/test/
+
+# Model checkpoints 
+!models/best.pt
